@@ -15,7 +15,7 @@ An AI-powered tool that analyzes LinkedIn profiles and provides personalized car
 - Supabase (if used)
 
 ## 🌐 Live Demo
-Coming soon...
+https://linkedin-ai-career-e-5cfk.bolt.host
 
 ## 📦 Setup
 npm install  
